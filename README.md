@@ -1,17 +1,17 @@
 ﻿# Data_pipeline_azure
 
-Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end data engineering pipeline built entirely on Microsoft Azure.
 It covers the complete data lifecycle — ingestion, storage, transformation, and reporting — using powerful Azure services.
 
-Architecture Diagram
+## Architecture Diagram
 
 ![IMG-20251024-WA0021(1)](https://github.com/user-attachments/assets/7c3aeb2b-e34f-495c-9e1d-1d8bdbc1ddf9)
 
 
 
-⚙️ Tech Stack
+## Tech Stack
 
 Azure Data Factory – for orchestrating and automating data ingestion
 
@@ -23,7 +23,7 @@ Azure Synapse Analytics – for serving and querying data efficiently
 
 Power BI – for data visualization and reporting
 
-🔄 Data Flow
+## Data Flow
 
 Data Source: Data is extracted from an HTTP source.
 
@@ -49,7 +49,7 @@ Reporting (Power BI): Final dashboards are created to visualize business insight
 <img width="1207" height="679" alt="Screenshot 2025-10-24 224731" src="https://github.com/user-attachments/assets/6c453c4b-0700-4b2a-a8e3-c2ff48d8dd42" />
 
 
-What I Learned
+## What I Learned
 
 Designing and implementing a robust data pipeline using Azure Data Factory
 
@@ -61,7 +61,7 @@ Applying best practices for big data and real-time processing
 
 Understanding Azure Data Engineer interview concepts through hands-on experience
 
-Future Improvements
+## Future Improvements
 
 Add CI/CD pipeline for automation using GitHub Actions or Azure DevOps
 
