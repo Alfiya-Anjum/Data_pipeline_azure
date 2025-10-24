@@ -40,9 +40,9 @@ Reporting (Power BI): Final dashboards are created to visualize business insight
 <img width="1807" height="759" alt="Screenshot 2025-10-25 000436" src="https://github.com/user-attachments/assets/e46658d8-cb87-437a-847a-fc4710a04537" />
 
 
-### 🔍 Data Transformation in Databricks
+** Data Transformation in Databricks**
 
-
+https://github.com/Alfiya-Anjum/Data_pipeline_azure/blob/main/SILVER_LAYER.ipynb
 
 **Power BI Dashboard**
 
@@ -68,4 +68,5 @@ Add CI/CD pipeline for automation using GitHub Actions or Azure DevOps
 Integrate real-time data streaming with Azure Event Hubs or Kafka
 
 Add monitoring and alerting using Azure Monitor
+
 
