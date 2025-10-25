@@ -48,6 +48,15 @@ https://github.com/Alfiya-Anjum/Data_pipeline_azure/blob/main/SILVER_LAYER.ipynb
 
 <img width="1207" height="679" alt="Screenshot 2025-10-24 224731" src="https://github.com/user-attachments/assets/6c453c4b-0700-4b2a-a8e3-c2ff48d8dd42" />
 
+## Dataset
+
+The project uses the [AdventureWorks Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works) from Kaggle.  
+It provides a comprehensive sample of a retail business, including tables for:
+- Customers, products, and sales transactions  
+- Geography and employee information  
+- Date and calendar data for analytical reporting  
+
+This dataset was ingested via **Azure Data Factory** and processed in **Azure Databricks** as part of the ETL workflow.
 
 ## What I Learned
 
@@ -68,5 +77,6 @@ Add CI/CD pipeline for automation using GitHub Actions or Azure DevOps
 Integrate real-time data streaming with Azure Event Hubs or Kafka
 
 Add monitoring and alerting using Azure Monitor
+
 
 
